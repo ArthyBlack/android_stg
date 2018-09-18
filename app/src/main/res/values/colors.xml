@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="suntigoDark">#141627</color>
+    <color name="suntigoYellow">#fcdb2e</color>
+    <color name="suntigoRed">#f2666e</color>
+    <color name="suntigoBlue">#54c4c7</color>
+    <color name="suntigoWhite">#FFFFFF</color>
+    <color name="transparentDark">#59141627</color>
+</resources>
