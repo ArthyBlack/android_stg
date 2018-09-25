@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="searchButtonHeight">50dp</dimen>
+    <dimen name="searchButtonWidth">100dp</dimen>
+    <dimen name="topMargin">70dp</dimen>
+    <dimen name="searchButtonMargin">20dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView_id" type="id"/>
+    <item name="searchBtn_id" type="id"/>
+    <item name="mainView_id" type="id"/>
+    <item name="mainActivity_Layout" type="id"/>
+</resources>

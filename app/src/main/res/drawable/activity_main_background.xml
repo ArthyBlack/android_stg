@@ -6,9 +6,7 @@
                 android:angle="270"
                 android:type="linear"
                 android:startColor="@color/suntigoDark"
-                android:centerColor="@color/transparentDark"
                 android:endColor="@color/suntigoBlue"
-                android:centerY="0.5"
                 />
         </shape>
     </item>
